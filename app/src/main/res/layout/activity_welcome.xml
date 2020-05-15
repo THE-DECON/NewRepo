@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/background7"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_height="match_parent"
+    tools:context=".Welcome">
+
+
+
+    <Button
+        android:id="@+id/Register0"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="600dp"
+        android:background="@drawable/reg_btn_style"
+        android:textColor="#fff"
+        android:text="@string/tenant_registration"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/Login0"
+        android:layout_width="320dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/reg_btn_style"
+        android:textColor="#fff"
+        android:text="@string/landlord_registration"
+        android:textSize="20sp" />
+
+
+
+
+</LinearLayout>

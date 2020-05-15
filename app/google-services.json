@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "881784064554",
+    "firebase_url": "https://realty-application.firebaseio.com",
+    "project_id": "realty-application",
+    "storage_bucket": "realty-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881784064554:android:2ffb8fa701577c6bdcd153",
+        "android_client_info": {
+          "package_name": "com.hodiaspora.realtyapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881784064554-9p36hshql2jm5u9pgg7cgjku7l14tbb2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hodiaspora.realtyapplication",
+            "certificate_hash": "07c041c5f5c7bd38a66ac30b0c99f995b2ebbbc3"
+          }
+        },
+        {
+          "client_id": "881784064554-3fq5r6tvf6j59dshfsu6k9v3cp7fquq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLuwFC-dld4Y0eOfufMlVucOZqSNdKX3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881784064554-3fq5r6tvf6j59dshfsu6k9v3cp7fquq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
